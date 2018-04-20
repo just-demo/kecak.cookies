@@ -575,7 +575,7 @@ a:focus, a:hover {
 
 @media (max-width:991px) {
   .carousel .background {
-    background-size: cover; /* To make the background image looks good */
+    background-size: 100% 100%; /* To make the background image looks good */
   }
 }
 
@@ -635,14 +635,14 @@ a:focus, a:hover {
 .title {
   font-family: Verdana;
   font-weight: 600;
-  font-size: 60px;
+  font-size: 30px;
   color: #ffffff;
   text-align: center;
 }
 
 .subtitle {
   font-family: Verdana;
-  font-size: 23px;
+  font-size: 15px;
   color: #ffffff;
   text-align: center;
 }
