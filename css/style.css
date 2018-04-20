@@ -584,11 +584,11 @@ a:focus, a:hover {
 }
 
 .carousel .background.b {
-  background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/slider/slider-bg-2.jpg");
+  background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/slider/slider-bg-2.JPG");
 }
 
 .carousel .background.c {
-  background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/slider/slider-bg-3.jpg");
+  background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/slider/slider-bg-3.JPG");
 }
 
 .carousel-fade .carousel-inner .item {
